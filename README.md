@@ -8,4 +8,4 @@ Brain tumor classification using VGG16.
 
 Original dataset: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
-All augmented and split datasets are included.
+All augmented and split datasets will be included.
