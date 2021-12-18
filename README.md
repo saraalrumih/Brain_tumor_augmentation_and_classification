@@ -6,4 +6,5 @@ Brain tumor augmentation:
 
 Brain tumor classification using VGG16.
 
-All dataset included.
+Original dataset: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+All augmented and splitted datasets are included.
