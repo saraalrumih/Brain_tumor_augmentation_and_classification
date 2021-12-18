@@ -1,1 +1,1 @@
-# Brain_tumor_augmentation_and_classification
+# Brain tumor augmentation and classification using GAN techniques
